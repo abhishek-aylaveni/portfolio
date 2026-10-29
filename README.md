@@ -1,30 +1,5 @@
-# Abhishek Aylaveni Portfolio
+# Portfolio has moved
 
-Personal portfolio website for embedded systems, IoT, firmware and electronic validation internship applications.
+My current engineering portfolio is **https://abhishek-aylaveni.github.io/**.
 
-## Live Site
-
-After publishing with GitHub Pages:
-
-https://abhishek-aylaveni.github.io/portfolio
-
-## Sections
-
-- Professional profile
-- Embedded systems and IoT projects
-- Work and education
-- Technical skills
-- Contact links
-- English and French CV downloads
-
-## Technologies
-
-- HTML
-- CSS
-- Static GitHub Pages deployment
-
-## Contact
-
-- Email: abhishekaylaveni7@gmail.com
-- LinkedIn: https://www.linkedin.com/in/abhishek-aylaveni
-- GitHub: https://github.com/abhishek-aylaveni
+This repository is retained for historical reference. Please use the current site for project details, experience and the latest resume.
